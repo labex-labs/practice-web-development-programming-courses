@@ -6,8 +6,8 @@
 
 Web development learning path involves mastering core technologies like HTML, CSS, and JavaScript, then progressing to front-end frameworks/libraries like React or Vue.js, as well as back-end languages/frameworks, databases, web servers, version control, testing and deployment. Continuous learning and hands-on practice are key.
 
-|   Index | Name                                                        | Level   | Repo                                                                 | Course Link                                                               |
-|---------|-------------------------------------------------------------|---------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
+|   Index | Name                                                        | Level   | Repo                                                                | Course Link                                                              |
+|---------|-------------------------------------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
 |       1 | [Quick Start with HTML](#quick-start-with-html)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html)       | [🚀 Start Learning](https://labex.io/courses/quick-start-with-html)       |
 |       2 | [Quick Start with CSS](#quick-start-with-css)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-css)        |
 |       3 | [Quick Start with JavaScript](#quick-start-with-javascript) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-javascript) |
