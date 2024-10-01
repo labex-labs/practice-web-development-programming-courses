@@ -4,28 +4,29 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-Web development learning path involves mastering core technologies like HTML, CSS, and JavaScript, then progressing to front-end frameworks/libraries like React or Vue.js, as well as back-end languages/frameworks, databases, web servers, version control, testing and deployment. Continuous learning and hands-on practice are key.
+Web Development is a dynamic and essential field in the digital age. This Skill Tree offers a systematic approach to learning front-end and back-end technologies. Designed for beginners, it provides a clear roadmap to master HTML, CSS, JavaScript, and popular frameworks. Through hands-on, non-video courses and practical coding exercises, you'll build real websites and web applications in an interactive playground.
 
-|   Index | Name                                                                                | Level   | Repo                                                                | Course Link                                                     |
-|---------|-------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|-----------------------------------------------------------------|
-|       1 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html)       | [🚀 Start](https://labex.io/courses/quick-start-with-html)       |
-|       2 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)        | [🚀 Start](https://labex.io/courses/quick-start-with-css)        |
-|       3 | [Quick Start with JavaScript](https://labex.io/courses/quick-start-with-javascript) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Start](https://labex.io/courses/quick-start-with-javascript) |
-|       4 | [Quick Start with jQuery](https://labex.io/courses/quick-start-with-jquery)         | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery)     | [🚀 Start](https://labex.io/courses/quick-start-with-jquery)     |
-|       5 | [Get Started with React](https://labex.io/courses/quick-start-with-react)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)      | [🚀 Start](https://labex.io/courses/quick-start-with-react)      |
+|   Index | Name                                                                                                      | Level   | Repo                                                                           | Course Link                                                                |
+|---------|-----------------------------------------------------------------------------------------------------------|---------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|       1 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html)                                   | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html)                  | [🚀 Start](https://labex.io/courses/quick-start-with-html)                  |
+|       2 | [Quick Start with CSS](https://labex.io/courses/quick-start-with-css)                                     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)                   | [🚀 Start](https://labex.io/courses/quick-start-with-css)                   |
+|       3 | [Quick Start with JavaScript](https://labex.io/courses/quick-start-with-javascript)                       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript)            | [🚀 Start](https://labex.io/courses/quick-start-with-javascript)            |
+|       4 | [Web Development Interactive Challenges](https://labex.io/courses/web-development-interactive-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/web-development-interactive-challenges) | [🚀 Start](https://labex.io/courses/web-development-interactive-challenges) |
+|       5 | [Quick Start with jQuery](https://labex.io/courses/quick-start-with-jquery)                               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery)                | [🚀 Start](https://labex.io/courses/quick-start-with-jquery)                |
+|       6 | [Get Started with React](https://labex.io/courses/quick-start-with-react)                                 | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)                 | [🚀 Start](https://labex.io/courses/quick-start-with-react)                 |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
