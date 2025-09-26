@@ -8,16 +8,15 @@
 <img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
 </div>
 
-Web 开发在数字时代是一个充满活力且至关重要的领域。这个技能树提供了一种系统的方式来学习前端和后端技术。它专为初学者量身定制，为掌握 HTML、CSS、JavaScript 以及流行框架提供了清晰的学习路径。通过实践型、非视频课程和实际编码练习，你将在交互式环境中构建真实的网站和 Web 应用程序。
+通过这个专为初学者设计的综合学习路径，学习 Web 开发。这些结构化的 Web 开发课程提供清晰的路线图，帮助您掌握前端和后端技术，从 HTML、CSS 和 JavaScript 等基础知识到流行的框架。通过动手实践、非视频模块和实际编码练习，您将在互动环境中构建真实的网站和 Web 应用程序。
 
 |   序号 | 名称                                                                                   | 难度   | Repo                                                                            | 练习                                                                              |
 |--------|----------------------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |      1 | [HTML 入门教程](https://labex.io/zh/courses/html-for-beginners)                        | 初级   | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)                     | [🚀 开始实验](https://labex.io/zh/courses/html-for-beginners)                     |
-|      2 | [CSS 快速入门](https://labex.io/zh/courses/quick-start-with-css)                       | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)                   | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-css)                   |
-|      3 | [JavaScript 快速入门](https://labex.io/zh/courses/quick-start-with-javascript)         | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript)            | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-javascript)            |
-|      4 | [Web 开发互动挑战](https://labex.io/zh/courses/web-development-interactive-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/web-development-interactive-challenges) | [🚀 开始实验](https://labex.io/zh/courses/web-development-interactive-challenges) |
-|      5 | [jQuery 快速入门](https://labex.io/zh/courses/quick-start-with-jquery)                 | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery)                | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-jquery)                |
-|      6 | [React 入门指南](https://labex.io/zh/courses/quick-start-with-react)                   | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)                 | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-react)                 |
+|      2 | [CSS 入门教程](https://labex.io/zh/courses/css-for-beginners)                          | 初级   | [🔗 Repo](https://github.com/labex-labs/css-for-beginners)                      | [🚀 开始实验](https://labex.io/zh/courses/css-for-beginners)                      |
+|      3 | [JavaScript 入门](https://labex.io/zh/courses/javascript-for-beginners)                | 初级   | [🔗 Repo](https://github.com/labex-labs/javascript-for-beginners)               | [🚀 开始实验](https://labex.io/zh/courses/javascript-for-beginners)               |
+|      4 | [React 入门指南](https://labex.io/zh/courses/react-for-beginners)                      | 初级   | [🔗 Repo](https://github.com/labex-labs/react-for-beginners)                    | [🚀 开始实验](https://labex.io/zh/courses/react-for-beginners)                    |
+|      5 | [Web 开发互动挑战](https://labex.io/zh/courses/web-development-interactive-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/web-development-interactive-challenges) | [🚀 开始实验](https://labex.io/zh/courses/web-development-interactive-challenges) |
 
 ## 更多
 
